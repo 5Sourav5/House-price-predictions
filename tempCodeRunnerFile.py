@@ -8,7 +8,7 @@ st.header('Bangalore House Price Prediction')
 data = pd.read_csv('C:\Users\VICTUS\OneDrive\Documents\House_price_prediction\Cleaned_data.csv')
 
 loc = st.selectbox('Choose the location', data['location'].unique())
-sqft = st.number_input('Enter Total Sqft')
+sqft = st.number_input('Enter Total Squareft')
 beds = st.number_input('Enter Number of Bedrooms')
 bath = st.number_input('Enter Number of Bathrooms')
 balc = st.number_input('Enter Number of Balconies')

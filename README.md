@@ -1,1 +1,2 @@
 # House-price-predictions
+The **House Price Prediction System** is a Machine Learning-based web application that predicts the estimated price of residential properties based on user inputs such as location, total square feet, number of bedrooms (BHK), and bathrooms. The project utilizes historical Bengaluru housing data to train a predictive model and provides accurate price estimates through an interactive web interface.
